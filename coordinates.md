@@ -1,4 +1,4 @@
-# Hello world
+# Polar Coordinates
 
 
 
@@ -32,7 +32,7 @@ $$
 ## Chapter 1 -Polar
 
 :::{figure} #my-mafs-polar
-:name: fig-polar
+:name: #fig-polar
 :width: 200px
 A polar example
 :::
@@ -40,7 +40,7 @@ A polar example
 ## Chapter 1 - Bezier
 
 :::{figure} #my-mafs-bezier
-:name: fig-bezier
+:name: #fig-bezier
 :width: 100px
 A bezier example 
 :::
@@ -51,7 +51,7 @@ A bezier example
 ## Chapter 2 - Projectile
 
 :::{figure} #my-mafs-projectile-motion
-:name: fig-projectile
+:name: #fig-projectile
 :width: 100px
 A projectile example 
 :::
