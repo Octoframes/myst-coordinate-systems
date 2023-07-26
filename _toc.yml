@@ -1,0 +1,7 @@
+
+format: jb-book
+root: index
+chapters:
+  - file: coordinates
+  - file: assets1
+  - file: assets2
