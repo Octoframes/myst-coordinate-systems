@@ -2,14 +2,14 @@
 
 # Polar Coordinates
 
-In polar coordinates, points in a plane are defined by radial distance $r$ and angular coordinate $\theta$  ([](#polar_overview)). The [radial direction](#fig-polar_radial) measures the point's distance from the origin, while the [angular direction](#fig-polar_angular) corresponds to the counterclockwise angle from the positive x-axis. These two dimensions together specify any point in the plane.
+In polar coordinates, points on a plane are defined by radial distance $r$ and angular coordinate $\theta$  ([](#polar_overview)). The [radial direction](#fig-polar_radial) measures the point's distance from the origin, while the [angular direction](#fig-polar_angular) corresponds to the counterclockwise angle from the positive x-axis. These two dimensions together specify any point in the plane.
 
 
 
 :::{figure} #my-mafs-polar
 :name: #fig-my-mafs-polar
 :width: 200px
-An interacitve comparison of  Cartesian and polar coordinates
+An interacitve comparison of  Cartesian and polar coordinates.
 :::
 
 
@@ -49,7 +49,6 @@ Polar coordinate system
 
 
 ::::{note} Animations
-:class: dropdown
 
 :::{figure} #polar_radial
 :name: fig-polar_radial
